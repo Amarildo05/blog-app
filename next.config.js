@@ -14,10 +14,10 @@ module.exports = (phase) => {
 
     return {
         env: {
-            mongodb_username: '',
-            mongodb_password: '',
-            mongodb_clustername: '',
-            mongodb_database: '',
+            mongodb_username: 'nextjs',
+            mongodb_password: 'BkvTgarATV9OiTxV',
+            mongodb_clustername: 'cluster0',
+            mongodb_database: 'my-blog',
         },
     }
 };
